@@ -1,0 +1,9 @@
+Properties:
+   background-color
+   background-image: url("paper.gif")
+   background-repeat: repeat-x, repeat-y, no-repeat
+   background-attachment: fixed
+   background-position: rigth top
+
+
+background: red url("img.jpg") no-repeat right top;

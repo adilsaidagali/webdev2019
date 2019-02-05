@@ -1,0 +1,19 @@
+padding-top
+paddint-right
+padding-bottom
+paddint-left
+
+
+To keep the width at 300px, no matter the amount of padding, you can use the box-sizing property.
+box-sizing: border-box;
+
+
+An outline is a line that is drawn around elements, OUTSIDE the borders, to make the element "stand out".
+
+
+outline-style: like a border
+outline-color
+outline-width
+outline-offset-The outline-offset property adds space between an outline and the edge/border of an element.
+ The space between an element and its outline is transparent.
+outline

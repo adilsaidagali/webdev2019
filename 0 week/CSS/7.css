@@ -1,0 +1,11 @@
+list-style-type: circle, square, upper-roman,lower-alpha,
+list-style-image: url("1.gif");
+
+list-style-position: outside,inside
+
+Shorthand: list-style: square inside url("1.gif");
+
+tr:nth-child(even){
+background-color: red;
+
+}

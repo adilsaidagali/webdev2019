@@ -1,0 +1,23 @@
+﻿border-style:
+dotted - точки
+, dashed - сызыктар
+ solid - сплошной
+ double,
+ groove,
+ ridge, 
+inset,
+ outset,
+ none, 
+hidden
+
+border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+
+if the border-style property has three values: dotted solid double
+   top border is dotted, right and left borders are solid bottom is double
+
+shorthand: border: 5px solid red;
+
+border-radius: 5px; round border
